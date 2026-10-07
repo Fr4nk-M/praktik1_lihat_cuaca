@@ -2,7 +2,7 @@
   "name": "look-outside",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Fr4nk-M.github.io/look-outside",
+  "homepage": "https://Fr4nk-M.github.io/praktik1_lihat_cuaca",
   "type": "module",
   "scripts": {
     "dev": "vite",
